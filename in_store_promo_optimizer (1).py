@@ -155,7 +155,7 @@ if encoded_image:
     <div class="hero">
       <div class="hero-content">
         <h1>In-Store Promotion Optimizer — Powered by AI</h1>
-        <p>Answer-first analytics to <b>choose the right SKUs</b>, <b>set the right discounts</b>, and <b>monetize uplift</b> across regions and categories — presentation-ready.</p>
+        <p>Answer-first analytics to <b>choose the right SKUs</b>, <b>set the right discounts</b>, and <b>monetize uplift</b> across regions and categories.</p>
       </div>
       <img src="{encoded_image}" alt="Promo Image">
     </div>
@@ -956,3 +956,4 @@ with top_tabs[4]:
                            data=rec.to_csv(index=False),
                            file_name="uplift_recommendations.csv",
                            mime="text/csv")
+
