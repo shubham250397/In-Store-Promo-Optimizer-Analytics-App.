@@ -5,7 +5,7 @@ This app enables retail and C-store teams to decide **which SKUs to promote, at 
 
 ---
 
-## 🌟 Features
+## Features
 
 - **EDA (Exploratory Data Analysis):**  
   Visualize revenue, margin, and promo penetration by region & category. Demand stability vs. intermittency (CV vs ADI).
@@ -33,7 +33,7 @@ This app enables retail and C-store teams to decide **which SKUs to promote, at 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** Streamlit (dark theme UI, executive styling)
 - **Visualization:** Plotly (fully dark-themed charts)
@@ -43,7 +43,7 @@ This app enables retail and C-store teams to decide **which SKUs to promote, at 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone repo**
    ```bash
